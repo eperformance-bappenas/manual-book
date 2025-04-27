@@ -1,3 +1,6 @@
-- [Tutorial Markdown](README.md)
-  - [Contoh Markdown](example/example.md)
-- [GitHub Repo](https://github.com/hezbymuhammad/markdown)
+**Panduan Markdown**
+- [Tutorial Utama](README.md)
+- [Contoh Sintaks](example/example.md)
+
+**Tentang**
+- [Repository](https://github.com/hezbymuhammad/markdown)

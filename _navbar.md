@@ -1,3 +1,3 @@
-- [Tutorial Markdown](README.md)
+- [Tutorial Markdown Tes](README.md)
 - [Contoh Markdown](example/example.md)
 - [GitHub Repo](https://github.com/hezbymuhammad/markdown)

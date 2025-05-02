@@ -1,4 +1,4 @@
-**Panduan Markdown**
+**Markdown**
 - [Tutorial Utama](README.md)
 - [Contoh Sintaks](example/example.md)
 

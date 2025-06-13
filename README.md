@@ -1,5 +1,5 @@
 ### **Apa itu ePerformance?**
-![stack Overflow](http://lmsotfy.com/so.png)
+![stack Overflow]([http://lmsotfy.com/so.png](https://eperformance.bappenas.go.id/asset/gambar/logo.png))
 
 **ePerformance** adalah aplikasi perangkat lunak berbasis web yang dikembangkan oleh **Biro Perencanaan, Organisasi, dan Tata Laksana Kementerian PPN/Bappenas** sebagai solusi terintegrasi untuk mengakomodasi berbagai **proses bisnis internal** di lingkungan Bappenas. Aplikasi ini awalnya dirancang untuk mendukung pengelolaan kinerja unit kerja, namun seiring berkembangnya kebutuhan organisasi, ePerformance terus dikembangkan menjadi sistem multi-modul yang mampu menunjang pengelolaan kinerja, pelaksanaan reformasi birokrasi, pemantauan kegiatan PHLN, serta pengelolaan anggaran secara komprehensif dan sistematis.
 
